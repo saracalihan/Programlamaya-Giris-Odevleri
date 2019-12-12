@@ -1,2 +1,1 @@
-# Programlamaya-Giris-Odevleri
-Bu repository Sakarya Üniversitesi Bilgisayar Mühendisliği bölümünde verilen programlamaya giriş ödevlerini kapsamaktadır.
+Ben Alihan SARAÇ,29 Ağustos 2001 tarihinde istanbul Kadıköyde doğdum.İlk ve orta okulu Ümraniyede bulunan Ahmet Cevdet Paşada okudum.Lise hayatıma 2015 yılında, Heybeliadada bulunan Deniz Lisesinde başladım,2016 yılında Ümraniyede Nevzat Ayaz Anadolu Lisesine başladım ve bu liseden 2019 yılında mezun oldum.Hâlihazır Sakarya Üniversitesi Bilgisayar Mühendisliği okumaktayım...
